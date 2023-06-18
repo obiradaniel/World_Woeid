@@ -1,0 +1,247 @@
+,WOE_ID,ISO,Name,Language,PlaceType,Parent_ID
+1,23424921,XS,Spratly Islands,ENG,Country,1
+2503,23424801,EC,Ecuador,SPA,Country,1
+3619,23424811,GF,Guyane Française,FRE,Country,1
+4510,23424978,BF,Burkina Faso,ENG,Country,1
+114670,23424829,DE,Deutschland,GER,Country,1
+315793,23424819,FR,France,FRE,Country,1
+356052,23424863,KE,Kenya,ENG,Country,1
+357151,56042304,BL,Saint-Barthélemy,FRE,Country,1
+364215,23424945,SI,Slovenija,UNK,Country,1
+380731,23424846,ID,Indonesia,ENG,Country,1
+389242,23424783,KY,Cayman Islands,ENG,Country,1
+400885,23424901,MY,Malaysia,ENG,Country,1
+421420,23424833,GR,Ελλάδα,UNK,Country,1
+431823,23424844,HU,Magyarország,HUN,Country,1
+435742,23424836,GY,Guyana,ENG,Country,1
+435844,23424832,GU,Guam,ENG,Country,1
+482020,23424923,PL,Polska,POL,Country,1
+507989,23424758,BS,The Bahamas,ENG,Country,1
+508842,23424778,LK,Sri Lanka,ENG,Country,1
+509465,23424814,FK,Falkland Islands,ENG,Country,1
+514251,23424873,LB,لبنان,ARA,Country,1
+523344,23424747,AR,Argentina,SPA,Country,1
+528225,23424968,TL,East Timor,ENG,Country,1
+531488,23424851,IR,Iran,ENG,Country,1
+531878,23424986,VA,Città del Vaticano,ITA,Country,1
+532987,23424835,GN,Guinée,FRE,Country,1
+533265,23424755,BW,Botswana,ENG,Country,1
+533291,23424970,TV,Tuvalu,ENG,Country,1
+539771,23424971,TW,臺灣,CHI,Country,1
+600362,23424992,WS,Samoa,ENG,Country,1
+605782,23424803,IE,Ireland,ENG,Country,1
+606146,23424941,SC,Seychelles,ENG,Country,1
+606746,23424887,MN,Mongolia,ENG,Country,1
+607537,23424807,SV,El Salvador,SPA,Country,1
+610726,23424780,CD,République Démocratique du Congo,FRE,Country,1
+612600,23424791,CR,Costa Rica,SPA,Country,1
+624785,23424812,FI,Suomi,FIN,Country,1
+637327,23424929,GW,Guiné-Bissau,POR,Country,1
+637447,28289411,HM,Heard Island and McDonald Islands,ENG,Country,1
+637480,23424879,LI,Liechtenstein,GER,Country,1
+637915,23424949,SO,Somalia,ENG,Country,1
+638615,23424937,RW,Rwanda,FRE,Country,1
+639244,23424793,CU,Cuba,SPA,Country,1
+639952,23424993,SZ,Swaziland,ENG,Country,1
+640056,23424932,MH,Marshall Islands,ENG,Country,1
+641521,23424854,CI,Côte d´Ivoire,FRE,Country,1
+659503,23424954,SE,Sverige,SWE,Country,1
+690545,23425003,ZM,Zambia,ENG,Country,1
+691235,24865698,HK,香港,CHI,Country,1
+693754,23424884,MQ,Martinique,FRE,Country,1
+693843,23424754,BB,Barbados,ENG,Country,1
+698740,23424757,BE,Belgique,FRE,Country,1
+701905,23424980,UZ,Uzbekistan,ENG,Country,1
+703406,23424926,PG,Papua New Guinea,ENG,Country,1
+703979,23424928,XX,Disputed Territory,ENG,Country,1
+704616,26812346,CY,Cyprus,ENG,Country,1
+713085,23424781,CN,中國,CHI,Country,1
+716374,23424948,SG,Singapore,ENG,Country,1
+718060,23424746,AS,American Samoa,ENG,Country,1
+718095,23424927,PW,Palau,ENG,Country,1
+719108,23424739,AF,Afghanistan,ENG,Country,1
+719125,23424998,XE,Iraq-Saudi Arabia Neutral Zone,ENG,Country,1
+719890,23424902,MZ,Moçambique,POR,Country,1
+720514,23424831,GP,Guadeloupe,FRE,Country,1
+720589,56558057,CW,Curaçao,DUT,Country,1
+721680,23424852,IL,Israel,ENG,Country,1
+723099,28289409,AQ,Antarctica,ENG,Country,1
+731984,23424910,NO,Norge,NOR,Country,1
+744796,23424964,TO,Tonga,ENG,Country,1
+745191,56558055,SS,The Republic of South Sudan,ENG,Country,1
+750443,23424805,EE,Eesti,UNK,Country,1
+752844,23424743,AM,Armenia,ENG,Country,1
+753626,23424742,AL,Shqipëri,UNK,Country,1
+753866,23424828,GL,Grønland,DAN,Country,1
+758340,23424924,PA,Panamá,SPA,Country,1
+759656,23424860,JO,الأردن,ARA,Country,1
+763600,23424875,LT,Lietuva,UNK,Country,1
+766245,23424761,BA,Bosna i Hercegovina,UNK,Country,1
+768495,23424765,BY,Belarus,ENG,Country,1
+769266,23424955,GS,South Georgia and the South Sandwich Islands,ENG,Country,1
+777897,23424960,TH,Thailand,ENG,Country,1
+780173,23424785,CM,Cameroun,FRE,Country,1
+782642,23424919,PE,Perú,SPA,Country,1
+782840,23424760,BZ,Belize,ENG,Country,1
+782999,23424930,QA,قطر,ARA,Country,1
+784003,23424891,ML,Mali,FRE,Country,1
+784061,23424899,MV,Maldives,ENG,Country,1
+786317,23424984,VN,Vietnam,ENG,Country,1
+788259,23424740,DZ,الجزائر,ARA,Country,1
+791514,23424779,CG,République du Congo,FRE,Country,1
+791605,23424794,CV,Cabo Verde,POR,Country,1
+792612,23424841,HN,Honduras,SPA,Country,1
+794611,23424883,MG,Madagascar,ENG,Country,1
+794790,23424756,BM,Bermuda,ENG,Country,1
+795164,23424972,TM,Turkmenistan,ENG,Country,1
+1027491,23424848,IN,India,ENG,Country,1
+1132149,23424881,LU,Luxembourg,FRE,Country,1
+1136575,23424786,KM,جزر القمر,ARA,Country,1
+1136831,23424882,LY,Libya,ENG,Country,1
+1137900,23424759,BD,Bangladesh,ENG,Country,1
+1139592,23424753,BH,البحرين,ARA,Country,1
+1140020,28289410,BV,Bouvet Island,ENG,Country,1
+1140059,23424907,VU,Vanuatu,ENG,Country,1
+1140135,23424904,NU,Niue,ENG,Country,1
+1173529,23424975,GB,United Kingdom,ENG,Country,1
+3210666,23424913,SR,Suriname,DUT,Country,1
+3211756,23424869,CX,Christmas Island,ENG,Country,1
+3211811,23424940,KN,Saint Kitts and Nevis,ENG,Country,1
+3212191,23424956,SY,سوريا,ARA,Country,1
+3212241,23424804,GQ,Guinea Ecuatorial,SPA,Country,1
+3212494,23424839,HT,Haïti,FRE,Country,1
+3212667,23424966,ST,São Tomé e Príncipe,POR,Country,1
+3232270,23424748,AU,Australia,ENG,Country,1
+3276520,28289407,UM,United States Minor Outlying Islands,ENG,Country,1
+3276558,23424826,GD,Grenada,ENG,Country,1
+3278537,23424935,PR,Puerto Rico,SPA,Country,1
+3334139,23424853,IT,Italia,ITA,Country,1
+3366443,23424750,AT,Österreich,GER,Country,1
+3373659,23424981,VC,Saint Vincent and the Grenadines,ENG,Country,1
+3374250,23424974,UG,Uganda,ENG,Country,1
+3393646,23424775,CA,Canada,ENG,Country,1
+4239214,23424810,CZ,Česká republika,CZE,Country,1
+4362185,23424856,JP,日本,JPN,Country,1
+4705880,23424864,KG,Kyrgyzstan,ENG,Country,1
+4705960,23424947,SM,San Marino,ITA,Country,1
+4709400,23424982,VE,Venezuela,SPA,Country,1
+4710138,20070017,MO,Macau,ENG,Country,1
+4710163,23424798,DM,Dominica,ENG,Country,1
+4710296,23424903,NC,Nouvelle-Calédonie,FRE,Country,1
+4717829,23424893,MA,المغرب,ARA,Country,1
+4719070,23424897,MT,Malta,ENG,Country,1
+4719160,23424737,AG,Antigua and Barbuda,ENG,Country,1
+4719167,23424997,XD,United Nations Neutral Zone,ENG,Country,1
+4726617,23424877,SK,Slovenská,UNK,Country,1
+4728284,23424983,VG,British Virgin Islands,ENG,Country,1
+4729299,23424777,TD,Tchad,FRE,Country,1
+4729325,23424795,CK,Cook Islands,ENG,Country,1
+4729347,23424989,WF,Wallis-Et-Futuna,FRE,Country,1
+4729495,23424870,KW,الكويت,ARA,Country,1
+4730277,23424905,NF,Norfolk Island,ENG,Country,1
+4730364,23424958,TT,Trinidad and Tobago,ENG,Country,1
+4752724,23424925,PT,Portugal,POR,Country,1
+4941092,23424867,KI,Kiribati,ENG,Country,1
+4941539,23424764,BJ,Bénin,FRE,Country,1
+4946664,23424771,BG,Bulgaria,ENG,Country,1
+4951304,23424788,MP,Northern Mariana Islands,ENG,Country,1
+4951790,23424824,GH,Ghana,ENG,Country,1
+4951798,23424918,PN,Pitcairn Islands,ENG,Country,1
+4951884,23424773,BN,Brunei,ENG,Country,1
+4952318,23424872,LA,Laos,ENG,Country,1
+4956643,23424942,ZA,South Africa,ENG,Country,1
+4963021,23424822,GA,Gabon,FRE,Country,1
+4963408,23424890,MK,Macedonia,ENG,Country,1
+4964151,23424912,NR,Nauru,ENG,Country,1
+4966753,23424908,NG,Nigeria,ENG,Country,1
+4967033,23424944,SH,St Helena Ascension and Tristan da Cunha,ENG,Country,1
+4967080,23424894,MU,Mauritius,ENG,Country,1
+4967115,28289413,SJ,Svalbard,NOR,Country,1
+4970067,23424934,PH,Philippines,ENG,Country,1
+4973102,23424962,TC,Turks and Caicos Islands,ENG,Country,1
+4973141,23424963,TK,Tokelau,ENG,Country,1
+4976411,23424969,TR,Turkey,ENG,Country,1
+4985896,23424858,JM,Jamaica,ENG,Country,1
+4987450,23424973,TZ,Tanzania,ENG,Country,1
+4987748,23424985,VI,US Virgin Islands,ENG,Country,1
+5000985,23424933,RO,România,RUM,Country,1
+5016817,23424871,KZ,Kazakhstan,ENG,Country,1
+5019495,23424922,PK,Pakistan,ENG,Country,1
+5022119,23424741,AZ,Azerbaijan,ENG,Country,1
+5023553,23424938,SA,السعودية,ARA,Country,1
+5028840,23424916,NZ,New Zealand,ENG,Country,1
+5041491,23424990,EH,Western Sahara,ENG,Country,1
+5041914,23424738,AE,الامارات,ARA,Country,1
+5043835,23424952,SD,السودان,ARA,Country,1
+5045110,20069818,RS,Serbia,ENG,Country,1
+5045200,23424766,SB,Solomon Islands,ENG,Country,1
+5049458,23424787,CO,Colombia,SPA,Country,1
+5060260,23424957,CH,Schweiz,GER,Country,1
+5065954,23424800,DO,República Dominicana,SPA,Country,1
+5068035,23424762,BO,Bolivia,SPA,Country,1
+5068062,56042305,MF,Saint-Martin,FRE,Country,1
+5068118,23424744,AD,Andorra,UNK,Country,1
+5068420,23424770,BT,Bhutan,ENG,Country,1
+5068551,23424816,FO,Færøerne,DAN,Country,1
+5068728,23424815,FM,Federated States of Micronesia,ENG,Country,1
+5069339,23424911,NP,Nepal,ENG,Country,1
+5070075,23424784,CC,Cocos (Keeling) Islands,ENG,Country,1
+5070538,23425004,ZW,Zimbabwe,ENG,Country,1
+5072090,23424885,MD,Moldova,ENG,Country,1
+5073739,23424979,UY,Uruguay,SPA,Country,1
+5074052,23424939,PM,Saint-Pierre-Et-Miquelon,FRE,Country,1
+5074088,23424886,YT,Mayotte,FRE,Country,1
+5074547,23424987,,Namibia,ENG,Country,1
+5075399,23424763,MM,Myanmar,ENG,Country,1
+5077340,23424802,EG,مصر,ARA,Country,1
+5078044,23424889,MW,Malawi,ENG,Country,1
+5078178,28289408,PS,Palestine,ENG,Country,1
+5084491,23424843,HR,Hrvatska,UNK,Country,1
+5086483,23424855,IQ,Iraq,ENG,Country,1
+5087436,23424943,SN,Sénégal,FRE,Country,1
+5091465,23424976,UA,Ukraine,ENG,Country,1
+5092756,23424776,KH,Cambodia,ENG,Country,1
+5093079,23424845,IS,Ísland,UNK,Country,1
+5096970,23424868,KR,한국,KOR,Country,1
+5122493,23424825,GI,Gibraltar,ENG,Country,1
+5141767,23424900,MX,México,SPA,Country,1
+5177792,23424792,CF,République Centrafricaine,FRE,Country,1
+5177875,23424806,ER,Eritrea,ENG,Country,1
+5178037,23424931,RE,La Réunion,FRE,Country,1
+5258843,23424936,RU,Russia,ENG,Country,1
+5268555,23424909,NL,Nederland,DUT,Country,1
+5275668,23424961,TJ,Tajikistan,ENG,Country,1
+5276943,23424823,GE,Georgia,ENG,Country,1
+5417168,23424977,US,United States,ENG,Country,1
+5779037,23424951,LC,St. Lucia,ENG,Country,1
+5782890,23424874,LV,Latvija,UNK,Country,1
+5784197,12577865,AX,Åland,SWE,Country,1
+5786700,23424849,IO,British Indian Ocean Territory,ENG,Country,1
+5787261,23424967,TN,Tunisia,ENG,Country,1
+5788454,23424821,GM,The Gambia,ENG,Country,1
+5788755,23424865,KP,North Korea,ENG,Country,1
+5790552,23424782,CL,Chile,SPA,Country,1
+5792637,28289406,TF,Terres Australes Et Antarctiques Françaises,FRE,Country,1
+5792657,23424892,MC,Monaco,FRE,Country,1
+5792940,56558058,SX,Sint Maarten,DUT,Country,1
+5792991,23424813,FJ,Fiji,ENG,Country,1
+5794729,23424898,OM,عمان,ARA,Country,1
+5794856,23424888,MS,Montserrat,ENG,Country,1
+5794883,23424751,AI,Anguilla,ENG,Country,1
+5814358,23424768,BR,Brasil,POR,Country,1
+5833751,23424946,SL,Sierra Leone,ENG,Country,1
+5833823,56558056,BQ,Bonaire Saint Eustatius and Saba,DUT,Country,1
+5833993,23424896,MR,Mauritanie,FRE,Country,1
+5834610,23424906,NE,Niger,FRE,Country,1
+5886127,23424950,ES,España,SPA,Country,1
+5906878,23424745,AO,Angola,POR,Country,1
+5907044,23424817,PF,Polynésie Française,FRE,Country,1
+5907464,23424880,LS,Lesotho,ENG,Country,1
+5908163,23425002,YE,Yemen,ENG,Country,1
+5908415,23424965,TG,Togo,FRE,Country,1
+5917014,23424796,DK,Danmark,DAN,Country,1
+5923278,23424797,DJ,جيبوتي,ARA,Country,1
+5923411,23424876,LR,Liberia,ENG,Country,1
+5924396,23424834,GT,Guatemala,SPA,Country,1
+5925842,23424808,ET,Ethiopia,ENG,Country,1
+5926085,20069817,ME,Montenegro,ENG,Country,1
